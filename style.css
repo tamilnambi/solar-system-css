@@ -21,7 +21,6 @@ body{
     height: 200px;
     border-radius: 50%;
     border: 1px solid black;
-    text-align: center;
     top:0;
     bottom: 0;
     left: 0;
@@ -29,6 +28,11 @@ body{
     margin: auto;
     overflow: hidden;
     position: absolute;
+}
+div p{
+    position: absolute;
+  bottom: 0;
+  left: 35%;
 }
 .mercury{
     height: 25px;
