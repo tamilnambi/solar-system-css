@@ -34,7 +34,7 @@ body{
     height: 25px;
     width: 25px;
     border-radius: 50%;
-    background-color: rgb(255, 68, 0);
+    background-color: grey;
     top:0;
     bottom: 0;
     left: 0;
@@ -66,7 +66,7 @@ body{
     height: 25px;
     width: 25px;
     border-radius: 50%;
-    background-color: rgb(255, 68, 0);
+    background-color: rgb(255, 47, 0);
     top:0;
     bottom: 0;
     left: 0;
@@ -130,7 +130,7 @@ body{
     height: 60px;
     width: 60px;
     border-radius: 50%;
-    background-color: rgb(255, 68, 0);
+    background-color: rgb(255, 0, 0);
     top:0;
     bottom: 0;
     left: 0;
@@ -162,7 +162,7 @@ body{
     height: 50px;
     width: 50px;
     border-radius: 50%;
-    background-color: rgb(255, 68, 0);
+    background-color: rgb(255, 119, 69);
     top:0;
     bottom: 0;
     left: 0;
@@ -194,7 +194,7 @@ body{
     height: 50px;
     width: 50px;
     border-radius: 50%;
-    background-color: rgb(255, 68, 0);
+    background-color: rgb(255, 145, 0);
     top:0;
     bottom: 0;
     left: 0;
@@ -226,7 +226,7 @@ body{
     height: 50px;
     width: 50px;
     border-radius: 50%;
-    background-color: rgb(255, 68, 0);
+    background-color: rgb(0, 255, 221);
     top:0;
     bottom: 0;
     left: 0;
@@ -258,7 +258,7 @@ body{
     height: 50px;
     width: 50px;
     border-radius: 50%;
-    background-color: rgb(255, 68, 0);
+    background-color: rgb(0, 98, 255);
     top:0;
     bottom: 0;
     left: 0;
