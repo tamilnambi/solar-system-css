@@ -276,3 +276,10 @@ div p{
     0%{transform: rotate(0deg)translate(-450px)rotate(0deg);}
     100%{transform: rotate(360deg)translate(-450px)rotate(-360deg);}
 }
+.ring{
+    background-color: red;
+    width: auto;
+    height: 3px;
+    margin-top: 45%;
+    transform: skewY(-40deg);
+}
