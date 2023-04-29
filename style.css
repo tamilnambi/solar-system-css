@@ -144,4 +144,131 @@ body{
     0%{transform: rotate(0deg)translate(-250px)rotate(0deg);}
     100%{transform: rotate(360deg)translate(-250px)rotate(-360deg);}
 }
-
+.jupiter-orbit{
+    width: 600px;
+    height: 600px;
+    border-radius: 50%;
+    border: 1px solid black;
+    text-align: center;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    overflow: hidden;
+    position: absolute;
+}
+.jupiter{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    background-color: rgb(255, 68, 0);
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    overflow: hidden;
+    position: absolute;
+    animation: jupiter 14s linear infinite;   
+}
+@keyframes jupiter {
+    0%{transform: rotate(0deg)translate(-300px)rotate(0deg);}
+    100%{transform: rotate(360deg)translate(-300px)rotate(-360deg);}
+}
+.saturn-orbit{
+    width: 700px;
+    height: 700px;
+    border-radius: 50%;
+    border: 1px solid black;
+    text-align: center;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    overflow: hidden;
+    position: absolute;
+}
+.saturn{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    background-color: rgb(255, 68, 0);
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    overflow: hidden;
+    position: absolute;
+    animation: saturn 17s linear infinite;   
+}
+@keyframes saturn {
+    0%{transform: rotate(0deg)translate(-350px)rotate(0deg);}
+    100%{transform: rotate(360deg)translate(-350px)rotate(-360deg);}
+}
+.uranus-orbit{
+    width: 800px;
+    height: 800px;
+    border-radius: 50%;
+    border: 1px solid black;
+    text-align: center;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    overflow: hidden;
+    position: absolute;
+}
+.uranus{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    background-color: rgb(255, 68, 0);
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    overflow: hidden;
+    position: absolute;
+    animation: uranus 19s linear infinite;   
+}
+@keyframes uranus {
+    0%{transform: rotate(0deg)translate(-400px)rotate(0deg);}
+    100%{transform: rotate(360deg)translate(-400px)rotate(-360deg);}
+}
+.neptune-orbit{
+    width: 900px;
+    height: 900px;
+    border-radius: 50%;
+    border: 1px solid black;
+    text-align: center;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    overflow: hidden;
+    position: absolute;
+}
+.neptune{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    background-color: rgb(255, 68, 0);
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    overflow: hidden;
+    position: absolute;
+    animation: neptune 21s linear infinite;   
+}
+@keyframes neptune {
+    0%{transform: rotate(0deg)translate(-450px)rotate(0deg);}
+    100%{transform: rotate(360deg)translate(-450px)rotate(-360deg);}
+}
